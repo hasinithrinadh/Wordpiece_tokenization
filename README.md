@@ -1,5 +1,4 @@
 # Wordpiece_tokenization
-# WordPiece Tokenization
 
 ## Overview
 
